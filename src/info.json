@@ -1,12 +1,12 @@
 {
-	"name": "ElectricLoaders",
-	"version": "1.0.0",
-	"title": "Electric Loaders",
-	"author": "AzzyBunn",
-	"dependencies": [
-		"base >= 2.0.21",
-		"? Krastorio2"
-	],
-	"description": "Makes loaders use power based on their speed.",
-	"factorio_version": "2.0"
+  "name": "ElectricLoaders",
+  "version": "1.1.0",
+  "title": "Electric Loaders",
+  "author": "AzzyBunn",
+  "dependencies": [
+    "base >= 2.0.21",
+    "? Krastorio2"
+  ],
+  "description": "Makes loaders use power based on their speed.",
+  "factorio_version": "2.0"
 }
